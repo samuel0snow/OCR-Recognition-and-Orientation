@@ -5,3 +5,5 @@ Users input an image and keywords, and the program uses OCR technology to detect
 本项目使用了百度开源的PaddleOCR-VL，做到能够离线部署到本地使用。<br>
 This project adopts Baidu's open-source PaddleOCR-VL, enabling offline deployment and local usage.<br>
 附上PaddleOCR的开源项目: https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_ch/models_list.md
+
+目前正在进行用户自主将模型本地化部署的实验。项目目前还差最后的优化部分（现在想起来做这样一个WINDOWS框架的工具太画蛇添足了😭）
