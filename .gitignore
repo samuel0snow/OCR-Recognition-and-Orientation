@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Test, tooling and local editor files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# Generated OCR artifacts and local installation logs
+results/
+outputs/
+output.jpg
+.pip-install.log
+.pip-install.err
+.venv-install.log
+.venv-install.err
